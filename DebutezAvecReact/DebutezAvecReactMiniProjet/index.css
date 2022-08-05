@@ -1,0 +1,8 @@
+function Header() 
+{
+    return (<div>La maison jungle</div>)
+}
+function Description()
+{
+    return (<p>Ici achetez toutes les plantes dont vous avez toujours révé</p>)
+}
